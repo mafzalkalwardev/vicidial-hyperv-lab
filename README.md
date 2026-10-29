@@ -2,25 +2,69 @@
 
 # VICIdial Hyper-V Lab
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2800&pause=700&color=0EA5E9&center=true&vCenter=true&width=900&lines=VICIdial+Call+Center+on+Windows+11;Hyper-V+%2B+ViciBox+12+Automation;PowerShell+Lab+Setup+Scripts" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=700&color=64748B&center=true&vCenter=true&width=900&lines=VICIdial+on+Windows+11+Hyper-V;PowerShell+Deploy+Scripts;ViciBox+12+Lab+Setup;Call-center+lab+in+a+box" alt="Typing SVG" />
 
 <p>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Hyper-V" />
-  <img src="https://img.shields.io/badge/VICIdial-OpenSource-green?style=for-the-badge" alt="VICIdial" />
+  <img src="https://komarev.com/ghpvc/?username=mafzalkalwardev&label=Project%20Views&color=64748b&style=for-the-badge" alt="Project views" />
+  <img src="https://img.shields.io/github/stars/mafzalkalwardev/vicidial-hyperv-lab?style=for-the-badge&color=22c55e" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/forks/mafzalkalwardev/vicidial-hyperv-lab?style=for-the-badge&color=f59e0b" alt="GitHub forks" />
+  <img src="https://img.shields.io/github/license/mafzalkalwardev/vicidial-hyperv-lab?style=for-the-badge&color=64748b" alt="License" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=powershell,windows" alt="Skill icons" />
+</p>
+
+<p>
+  <strong>PowerShell scripts to deploy VICIdial call center on Windows 11 using Hyper-V and ViciBox 12.</strong>
 </p>
 
 </div>
 
 ---
 
-## Project Showcase
+## Trophy Cards
 
-PowerShell automation to deploy **VICIdial** (open-source call center) on **Windows 11** via **Hyper-V** and **ViciBox 12** ISO. Includes ISO download script, VM creation, and VM control utilities — ideal for lab/testing dialer infrastructure on a Windows host.
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mafzalkalwardev&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub trophy cards" />
+</div>
 
-**Repository:** [github.com/mafzalkalwardev/vicidial-hyperv-lab](https://github.com/mafzalkalwardev/vicidial-hyperv-lab)
+---
 
-Built by **Muhammad Afzal Kalwar**.
+## Stats Cards
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mafzalkalwardev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mafzalkalwardev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
+
+---
+
+## Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mafzalkalwardev&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" />
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/google-voice-dispatch-agent/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/google-voice-dispatch-agent/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/mafzalkalwardev/google-voice-dispatch-agent/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## SEO Keywords
+
+`VICIdial` `Hyper-V` `ViciBox` `call center lab`
+
+---
 
 ## Architecture
 
